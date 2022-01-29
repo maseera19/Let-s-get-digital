@@ -1,5 +1,5 @@
 Industry Name : Ed-Tech .     
-Project tilte :  Let-s-get-digital     
+Project tilte :  Let's-get-digital     
 Summary : Let's get digital Co, we offer a clear roadmap and navigate the in's and outs of digital marketing alongside our clients.   
 We also provide real-time updates through intuitive dashboards and a dedicated team..   
 Synopsis :Let's get digital website will help put one's company on the digital map, through websites and social platforms.    
