@@ -34,10 +34,9 @@ The deployement of a static website to Azure is successfully completed.
 
 You can now view your project using    
 Primary endpoint:   
-https://programmingguide.z13.web.core.windows.net/    
+https://letsgetdigital.z13.web.core.windows.net/      
 
 Secondary endpoint:   
-https://programmingguide-secondary.z13.web.core.windows.net/   
-
+https://letsgetdigital-secondary.z13.web.core.windows.net/   
 You can also view the project using github webpage.The link is as follows:   
 https://maseera19.github.io/Let-s-get-digital/
