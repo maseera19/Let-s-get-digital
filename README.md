@@ -40,4 +40,4 @@ Secondary endpoint:
 https://programmingguide-secondary.z13.web.core.windows.net/   
 
 You can also view the project using github webpage.The link is as follows:   
-https://maseera-19.github.io/programming-guide/    
+https://maseera19.github.io/Let-s-get-digital/
