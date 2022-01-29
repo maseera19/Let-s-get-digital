@@ -34,7 +34,8 @@ The deployement of a static website to Azure is successfully completed.
 
 You can now view your project using    
 Primary endpoint:   
-https://letsgetdigital.z13.web.core.windows.net/  
+https://letsgetdigital.z13.web.core.windows.net/
+
   
 
    
